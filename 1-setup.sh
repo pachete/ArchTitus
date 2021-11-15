@@ -85,6 +85,7 @@ PKGS=(
 'celluloid' # video players
 'cmatrix'
 'code' # Visual Studio code
+'cool-retro-term'
 'cronie'
 'cups'
 'dialog'
@@ -125,8 +126,8 @@ PKGS=(
 'kinfocenter'
 'kscreen'
 'kvantum-qt5'
-'kitty'
-'konsole'
+
+
 'kscreen'
 'layer-shell-qt'
 'libdvdcss'
@@ -174,6 +175,7 @@ PKGS=(
 'sddm-kcm'
 'snapper'
 'spectacle'
+'st'
 'steam'
 'sudo'
 'swtpm'
