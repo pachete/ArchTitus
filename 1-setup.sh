@@ -118,6 +118,7 @@ PKGS=(
 'htop'
 'iptables-nft'
 'jdk-openjdk' # Java 17
+'jdk8-openjdk' # Java 8
 'kate'
 'kcodecs'
 'kcoreaddons'
