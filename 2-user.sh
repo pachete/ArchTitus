@@ -25,13 +25,15 @@ ln -s "$HOME/zsh/.zshrc" $HOME/.zshrc
 PKGS=(
 'autojump'
 'awesome-terminal-fonts'
-'brave-bin' # Brave Browser
+
 'dxvk-bin' # DXVK DirectX to Vulcan
+'firefox'
 'github-desktop-bin' # Github Desktop sync
-'lightly-git'
-'lightlyshaders-git'
+
+
 'mangohud' # Gaming FPS Counter
 'mangohud-common'
+'multimc5'
 'nerd-fonts-fira-code'
 'nordic-darker-standard-buttons-theme'
 'nordic-darker-theme'
@@ -43,6 +45,7 @@ PKGS=(
 'ocs-url' # install packages from websites
 'sddm-nordic-theme-git'
 'snapper-gui-git'
+'telegram-desktop'
 'ttf-droid'
 'ttf-hack'
 'ttf-meslo' # Nerdfont package
